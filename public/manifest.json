@@ -1,0 +1,9 @@
+{
+  "short_name": "Smart Gadgets",
+  "name": "Smart Gadgets Store – Premium Electronics",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1e3a8a",
+  "background_color": "#ffffff"
+}
